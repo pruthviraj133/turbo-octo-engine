@@ -1,0 +1,5 @@
+numpy
+pandas
+
+# without calling the setup.py file with "python setup.py install" - call setup.py
+# -e .
