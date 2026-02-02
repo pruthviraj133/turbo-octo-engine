@@ -1,6 +1,10 @@
 numpy
 pandas
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 
 # without calling the setup.py file with "python setup.py install" - call setup.py
--e .
+# -e .
